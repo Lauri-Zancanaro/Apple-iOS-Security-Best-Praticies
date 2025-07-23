@@ -1,8 +1,6 @@
 # Apple-iOS-Security-Best-Praticies
 Best Security Practices to protect Apple iOS from exploitation and data extraction by forensic analysis software
 
-# Proteção de Dados do WhatsApp contra Análise Forense no iOS
-
 **Guia Completo para Maximizar Proteções Nativas**  
 **Autor:** [</] defensys  
 **Data:** 23 de Julho de 2025  
